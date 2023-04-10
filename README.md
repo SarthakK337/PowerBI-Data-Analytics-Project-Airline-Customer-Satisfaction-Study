@@ -19,3 +19,12 @@
 * The Trends page showcases a line chart that shows trends for brand rating versus time for different attributes. 
 * The Regional Analysis page shows region-wise brand perspective for a particular attribute. Finally, the Compare page features year-wise comparison and changes in the brand image, with conditional formatting. 
 * Green color implies positive brand image, while red color implies negative brand image.
+## Overview of dashbord
+![image](https://user-images.githubusercontent.com/90543827/230882712-79fbcf99-c05c-428e-9fab-20f614db82d6.png)
+![image](https://user-images.githubusercontent.com/90543827/230882724-0ea24e2a-9c2b-4b88-890f-8ad3f1521310.png)
+![image](https://user-images.githubusercontent.com/90543827/230882742-24d86114-1137-4cd5-981a-570a0f4d3455.png)
+![image](https://user-images.githubusercontent.com/90543827/230882768-07917462-a5ea-422a-8f42-b31de17294c0.png)
+![image](https://user-images.githubusercontent.com/90543827/230882781-f0c39603-0412-47e4-a509-9b49b2231419.png)
+![image](https://user-images.githubusercontent.com/90543827/230882789-e8017dfe-e202-45a8-ba96-3b8797b563bc.png)
+![image](https://user-images.githubusercontent.com/90543827/230882798-896d41a7-d13a-45f3-9c5c-4f7abdae67a9.png)
+![image](https://user-images.githubusercontent.com/90543827/230882823-71cb02f4-fbab-4a23-a44d-9b24437b335e.png)
