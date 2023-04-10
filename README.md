@@ -1,35 +1,21 @@
 # PowerBI-Data-Analytics-Project-Airline-Customer-Satisfaction-Study
 
-* Prepared a dashboard for an Airline company to analyze its customer satisfaction level.
-* Visualized the trends for various attributes like baggage handling, cleanliness, easy of online booking, etc. using charts and compared them with the rival companies.
-* Used buttons for navigation, appropriate theme color, metrix and Bar chart, line charts, Map, filters, etc.
+* Power BI data analytics dashboard designed to help an airline company analyze its customer satisfaction level. 
+* The dashboard includes various visualizations that showcase trends for different attributes like baggage handling, cleanliness, ease of online booking, etc. 
+* The data is compared with rival companies, making it easier for the airline company to make data-driven decisions.
 
 ## Description of the Dashboard
-### T2B% (Top 2 Box %)
-*Calculate weighted Top 2 Box Percentage (T2B%). Percentage of people who rated 4 or 5 out of people who rated 1 to 5. Mean should be calculated by considering weights and rating scale as factor for calculating means.
-
-### Home Page
-In home page there are 5 button to navigate pages: Scorecard, Trends, Summary, Regional Analysis, Compare
-
-### Scorecard
-* Bar chart to show T2B%. For Top 5 brands.
-* Dynamic header: As the Attribute Title slicer changes, the header name will also change.
-* Button to clear all filters
-* All slicers on right hand side of each page with sync on all the pages.
-* Card to show Total Sample. If sample goes below 500 then the font color changes to red and creates an alert as well.
-* Summary selection at below for showing all filter.
-
-### Trends
-* Line chart to show trends for Brand rating vs Time, for different attributes.
-
-### Summary
-* same as Scorecard, but with all brands.
-
-### Regional analysis
-* It shows region-wise brand perspective for a particular attribute.
-
-### Compare
-* Year-wise comparison and changes in the brand image.
-* Conditional formatting:
- 	Green color implies positive brand image
- 	Red color implies negative brand image
+* The dashboard has a user-friendly interface with buttons for navigation and an appropriate theme color. 
+* The dashboard features various visualizations such as metrics and bar charts, line charts, maps, and filters. 
+* One of the essential metrics used in the dashboard is the Top 2 Box Percentage (T2B%). 
+* It is calculated by considering weights and the rating scale as factors for calculating means. 
+* The T2B% metric is a percentage of people who rated 4 or 5 out of people who rated 1 to 5.
+* The home page of the dashboard features five buttons to navigate different pages. 
+* These pages include Scorecard, Trends, Summary, Regional Analysis, and Compare. 
+* The Scorecard page features a bar chart to show T2B% for the top five brands. 
+* The header name changes dynamically as the Attribute Title slicer changes. 
+* A button is provided to clear all filters, and all slicers are synchronized on all the pages.
+* The Summary page features the same visualizations as the Scorecard page, but with all brands. 
+* The Trends page showcases a line chart that shows trends for brand rating versus time for different attributes. 
+* The Regional Analysis page shows region-wise brand perspective for a particular attribute. Finally, the Compare page features year-wise comparison and changes in the brand image, with conditional formatting. 
+* Green color implies positive brand image, while red color implies negative brand image.
